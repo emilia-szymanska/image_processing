@@ -1,5 +1,5 @@
 # image_processing
-Simple image processing on PGM files. Some piece of codes were provided to students by their lecturers.
+Simple image processing on PGM files. Some piece of codes were provided to students by their lecturers during the course provided at Wroclaw University of Science and Technology.
 To run the program in your console you should run it this way:
 program {[-i name_of_input_file] [-o name_of_output_file] [-p number] [-n] [-k] [-d] [-r] [-m] [-z number number] [-h]}
 -i name_of_input_file: we give the name of the file we want to read
