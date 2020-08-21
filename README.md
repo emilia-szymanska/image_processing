@@ -1,7 +1,7 @@
 # image_processing
 Simple image processing on PGM files (adding effects). Some piece of codes were provided to students by their lecturers during the course provided at Wroclaw University of Science and Technology. Specification of the task is described [here](https://kcir.pwr.edu.pl/~mucha/PProg/PProg_lab_05/index.html) - the task was a little modified by our teacher.
 
-## Importnant information 
+## Important information 
 
 ### Prerequisites
 After cloning this repository to your computer run the Makefile command in the main directory:
